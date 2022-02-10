@@ -1,6 +1,6 @@
 # Course-Selection-System
 
-# Files contained in repository
+## Files contained in repository
 
 ### Main program
 1. [Here to run](https://github.com/haoyu0826/Course-Selection-System/blob/main/CourseSelection.java#L8)
