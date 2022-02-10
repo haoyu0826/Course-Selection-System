@@ -8,13 +8,13 @@ The course selection system program written in Java constructs a user system to 
 ### Note
 The program should be completed with individualized course, student and Admin information data. Files provided in the repository are used as examples to test the program. IT SHOULD BE MODIFIED WHEN IT IS OFFICIALLY USED. To better test the program, you can use the following Admin/student information (they are also contained in the csv file):
 
-**User type: Admin**
-	Username: Admin01
-	Password: Admin001
+1. User type: Admin
+	* Username: Admin01
+	* Password: Admin001
 
-**User type: Student**
-	Username: Student01
-	Password: Student001
+2. User type: Student
+	* Username: Student01
+	* Password: Student001
 
 Menus are different for Admin and student signitures as shown below:
 
