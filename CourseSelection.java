@@ -833,43 +833,43 @@ public class CourseSelection{
 		//Serialization
 		try	{	
 			FileOutputStream fos = new FileOutputStream("AllCourseList");
-            ObjectOutputStream oos = new ObjectOutputStream(fos);
-            oos.writeObject(courseList);
-            oos.close();
-            fos.close();
-        }
+			ObjectOutputStream oos = new ObjectOutputStream(fos);
+			oos.writeObject(courseList);
+			oos.close();
+			fos.close();
+		}
 		
-        catch (IOException ioe) {
-            ioe.printStackTrace();
-        }
+		catch (IOException ioe) {
+			ioe.printStackTrace();
+		}
 		
 		/*Admin ArrayList*/
 		//Serialization
 		try	{	
 			FileOutputStream fos = new FileOutputStream("AllAdminList");
-            ObjectOutputStream oos = new ObjectOutputStream(fos);
-            oos.writeObject(adminList);
-            oos.close();
-            fos.close();
-        }
+			ObjectOutputStream oos = new ObjectOutputStream(fos);
+			oos.writeObject(adminList);
+			oos.close();
+			fos.close();
+		}
 		
-        catch (IOException ioe) {
-            ioe.printStackTrace();
-        }
+		catch (IOException ioe) {
+			ioe.printStackTrace();
+		}
 		
 		/*Student ArrayList*/
 		//Serialization
 		try	{	
 			FileOutputStream fos = new FileOutputStream("AllStudentINFOList");
-            ObjectOutputStream oos = new ObjectOutputStream(fos);
-            oos.writeObject(allstudentINFO);
-            oos.close();
-            fos.close();
+			ObjectOutputStream oos = new ObjectOutputStream(fos);
+			oos.writeObject(allstudentINFO);
+			oos.close();
+			fos.close();
         }
 		
-        catch (IOException ioe) {
-            ioe.printStackTrace();
-        }
+        	catch (IOException ioe) {
+			ioe.printStackTrace();
+        	}
 	}
 	
 	public static void manageINFO() {
