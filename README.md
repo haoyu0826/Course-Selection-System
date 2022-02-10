@@ -31,7 +31,7 @@ Menus are different for Admin and student signitures as shown below:
     
   2 Course Reports
   
-    1 View all courses
+    		1 View all courses
 		2 View all courses that are FULL
 		3 Write to a file the list of courses that are Full
 		4 View the names of the students being registered in a specific course
