@@ -54,10 +54,10 @@ Menus are different for Admin and student signitures as shown below:
 
 ## Files contained in repository
 
-### Main program
+### Main class
 1. [Here to run](https://github.com/haoyu0826/Course-Selection-System/blob/main/CourseSelection.java#L8)
 
-### Classes
+### Other classes
 1. [Course class](https://github.com/haoyu0826/Course-Selection-System/blob/main/Course.java)
 2. [User class](https://github.com/haoyu0826/Course-Selection-System/blob/main/User.java)
 3. [Student class](https://github.com/haoyu0826/Course-Selection-System/blob/main/Student.java)
